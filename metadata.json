@@ -1,0 +1,6 @@
+{
+  "name": "Weather Forecast",
+  "description": "Provides real-time updates, detailed 10-day forecasts, and AI-powered weather insights using Open-Meteo and Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
